@@ -1,2 +1,2 @@
 # python
-python basics -Ineuran sessionn on python basics
+python basics -Ineuron session on python basics
